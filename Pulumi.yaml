@@ -1,0 +1,3 @@
+name: Kinoshita-AKS-Pulumi-lab
+runtime: go
+description: Just an AKS lab using Pulumi as IaC
